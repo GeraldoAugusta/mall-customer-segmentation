@@ -52,6 +52,7 @@ The workflow includes:
   - Young, high-spending, etc.  
 - Useful for targeted marketing campaigns and business strategy  
 
+---
 
 **Author:** Geraldo Augusta
 
