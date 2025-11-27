@@ -1,5 +1,6 @@
 ### Machine Learning Portfolio Project  
 **Author:** Geraldo Augusta
+
 **Email:** geraldonyoman14@gmail.com  
 **LinkedIn:** https://linkedin.com/in/geraldoaugusta  
 **GitHub:** https://github.com/geraldoaugusta
