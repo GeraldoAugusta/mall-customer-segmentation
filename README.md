@@ -1,10 +1,3 @@
-### Machine Learning Portfolio Project  
-**Author:** Geraldo Augusta
-
-**Email:** geraldonyoman14@gmail.com  
-**LinkedIn:** https://linkedin.com/in/geraldoaugusta  
-**GitHub:** https://github.com/geraldoaugusta
-
 # Customer Segmentation – Machine Learning Clustering
 
 ## Overview
@@ -59,7 +52,9 @@ The workflow includes:
   - Young, high-spending, etc.  
 - Useful for targeted marketing campaigns and business strategy  
 
-## How to Run
-1. Install required libraries:
-```bash
-pip install -r requirements.txt
+
+**Author:** Geraldo Augusta
+
+**Email:** geraldonyoman14@gmail.com  
+**LinkedIn:** https://linkedin.com/in/geraldoaugusta  
+**GitHub:** https://github.com/geraldoaugusta
